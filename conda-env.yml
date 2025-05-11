@@ -1,0 +1,13 @@
+name: ifood-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pyspark=3.5.5
+  - scikit-learn=1.6.1
+  - pip
+  - numpy
+  - pandas=2.2.3
+  - seaborn
+  - ipykernel
