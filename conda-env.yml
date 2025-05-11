@@ -6,8 +6,10 @@ dependencies:
   - python=3.12
   - pyspark=3.5.5
   - scikit-learn=1.6.1
+  - bioconda::java-jdk
   - pip
   - numpy
   - pandas=2.2.3
   - seaborn
   - ipykernel
+  - ydata-profiling
