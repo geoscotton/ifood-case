@@ -4,6 +4,5 @@ __pycache__
 *.pyd
 *.pyw
 *.pyz
-*.py
 *SUCCESS*
 .*crc
